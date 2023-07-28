@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/fixco-app/static/css/main.3c2299f7.css",
+    "main.js": "/fixco-app/static/js/main.736e52e5.js",
+    "static/js/787.077ce41a.chunk.js": "/fixco-app/static/js/787.077ce41a.chunk.js",
+    "static/media/img3.jpg": "/fixco-app/static/media/img3.4478592a9b672b1db2ac.jpg",
+    "static/media/3.jpg": "/fixco-app/static/media/3.91cc8ca249588fd99610.jpg",
+    "static/media/10.jpg": "/fixco-app/static/media/10.2b4bf30c6563b2d628fa.jpg",
+    "static/media/5.jpg": "/fixco-app/static/media/5.044fa9718068e3fffc59.jpg",
+    "static/media/8.jpg": "/fixco-app/static/media/8.4475d5d8e7c5c685a345.jpg",
+    "static/media/7.jpg": "/fixco-app/static/media/7.f46732dbd4503414ade1.jpg",
+    "static/media/2.jpg": "/fixco-app/static/media/2.a26b3137a4f907a5f5be.jpg",
+    "static/media/9.jpg": "/fixco-app/static/media/9.267e2b0ffa340e89feee.jpg",
+    "static/media/4.jpg": "/fixco-app/static/media/4.fbaa3c68949c55c32f45.jpg",
+    "static/media/6.jpg": "/fixco-app/static/media/6.a5f3957a44eab04b1d09.jpg",
+    "static/media/img6.jpg": "/fixco-app/static/media/img6.dbc0e9c86c62f3e83029.jpg",
+    "static/media/home.jpg": "/fixco-app/static/media/home.16ad47facee9bf482e8e.jpg",
+    "static/media/img2.jpg": "/fixco-app/static/media/img2.9699980c5bddb92cfef9.jpg",
+    "static/media/pre3.gif": "/fixco-app/static/media/pre3.fe5b26da5ad916753460.gif",
+    "static/media/img4.jpg": "/fixco-app/static/media/img4.6ea974107816c3d820ff.jpg",
+    "static/media/img5.jpg": "/fixco-app/static/media/img5.62b89359d204d3717247.jpg",
+    "static/media/projecttopic.pdf": "/fixco-app/static/media/projecttopic.dd85693e8878be504e02.pdf",
+    "static/media/img1.jpg": "/fixco-app/static/media/img1.13a7db1cc5b882a1840a.jpg",
+    "static/media/1.jpg": "/fixco-app/static/media/1.6c985bee22286cd34da7.jpg",
+    "static/media/pre2.gif": "/fixco-app/static/media/pre2.54f8d4dde898650ad3b0.gif",
+    "static/media/about.png": "/fixco-app/static/media/about.56de6f60c59319d51e39.png",
+    "index.html": "/fixco-app/index.html",
+    "main.3c2299f7.css.map": "/fixco-app/static/css/main.3c2299f7.css.map",
+    "main.736e52e5.js.map": "/fixco-app/static/js/main.736e52e5.js.map",
+    "787.077ce41a.chunk.js.map": "/fixco-app/static/js/787.077ce41a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2299f7.css",
+    "static/js/main.736e52e5.js"
+  ]
+}
